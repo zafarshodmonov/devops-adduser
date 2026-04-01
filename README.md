@@ -6,7 +6,7 @@ Ushbu mavzuda siz Linux tizimida yangi foydalanuvchi (user) yaratishni o‘rgana
 
 ### 📘 Nazariya
 
-👉 [Google Docs orqali o‘qish](https://docs.google.com/...)
+👉 [Google Docs orqali o‘qish](https://docs.google.com/document/d/1yC0IHTc3wGWqgByRk4O6cV2i7SuTX51rx_XVncmHne0/edit?usp=sharing)
 
 ---
 
