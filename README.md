@@ -19,6 +19,7 @@ Ushbu mavzuda siz Linux tizimida yangi foydalanuvchi (user) yaratishni o‘rgana
 ### 📝 Mashqlar
 
 👉 [Mashqlarni ko‘rish](./exercises/adduser.md)
+
 👉 [Javoblarni ko‘rish](./exercises/adduser_javoblar.md)
 
 ---
